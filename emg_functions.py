@@ -1,10 +1,7 @@
 import numpy as np
 import scipy
 import math
-# import random
 import statistics
-# from axopy.features.util import rolling_window
-# from sklearn import tree as decision_tree
 from scipy.stats import skew as sp_skewness
 import copy
 import sklearn
